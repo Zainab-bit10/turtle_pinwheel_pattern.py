@@ -8,7 +8,7 @@ A creative Python script built with the `turtle` graphics library to render a vi
 - Styled with vibrant yellow geometric lines and decorative red/green center accents.
 
 ## 🖼️ Preview
-![Pinwheel Pattern Output](<img width="380" height="333" alt="output_preview" src="https://github.com/user-attachments/assets/dc21a961-3e89-463d-bd81-e2ee533c6c43" />
+![Pinwheel Pattern Output](<img width="380" height="333" alt="output" src="https://github.com/user-attachments/assets/4cb5ed2a-c399-4148-80dc-c7ced19a3e90" />)
 )
 
 ## 🚀 How to Run
