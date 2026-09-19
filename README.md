@@ -1,3 +1,4 @@
+<img width="323" height="329" alt="Screenshot 2026-09-19 095356" src="https://github.com/user-attachments/assets/8b271617-9092-45ac-a56b-d15aaf19c062" />
 # Turtle Pinwheel Geometric Art 🎨
 
 A creative Python script built with the `turtle` graphics library to render a vibrant geometric star/pinwheel pattern.
